@@ -1,5 +1,5 @@
 # scamchecker (WIP)
-Twitter bot to check if a website is scam
+Twitter bot to check if a website is scam. This is a work in progress project and the bot isn't live yet.
 
 ﻿# scamchecker
 
